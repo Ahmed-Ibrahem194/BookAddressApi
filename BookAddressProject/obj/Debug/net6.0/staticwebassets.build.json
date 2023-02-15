@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "IwAinb8xm0L+8FEexmbuPr+/We8vZLNeZrHFkyHrQXM=",
+  "Source": "BookAddressProject",
+  "BasePath": "_content/BookAddressProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookAddressProject\\wwwroot",
+      "Source": "BookAddressProject",
+      "ContentRoot": "C:\\Users\\Developer\\source\\repos\\BookAddressProject\\BookAddressProject\\wwwroot\\",
+      "BasePath": "_content/BookAddressProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
